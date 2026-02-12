@@ -33,6 +33,7 @@ git clone https://github.com/TripleHeadedMonkey/ComfyUI-Zlycoris.git
 
 Restart ComfyUI.
 
+## more info
 
 Zlycoris – ComfyUI Nodes for Transformer Merging & LoRA Automation
 
