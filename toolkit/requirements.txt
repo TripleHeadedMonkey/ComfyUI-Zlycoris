@@ -1,0 +1,7 @@
+lycoris-lora
+optimum-quanto
+safetensors
+diffusers
+transformers
+accelerate
+huggingface-hub
